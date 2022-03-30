@@ -1,2 +1,2 @@
-# dotfiles
-My .config files
+# n4bula dotfiles
+
